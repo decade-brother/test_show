@@ -104,7 +104,7 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: 'git'
-  repo: https://631161722@qq.com:mxs215800..@github.com/631161722@qq.com/631161722@qq.com.github.io.git
+  repo: https://decade-brother:mxs215800..@github.com/decade-brother/decade-brother.github.io.git
   
 ##---------------------
 # Search
